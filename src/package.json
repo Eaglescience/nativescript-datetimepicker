@@ -1,5 +1,5 @@
 {
-  "name": "nativescript-datetimepicker",
+  "name": "nativescript-datetimepicker-fork",
   "version": "1.2.2",
   "description": "A NativeScript plugin for picking date and time.",
   "typings": "index.d.ts",
